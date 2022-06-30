@@ -2,3 +2,6 @@
 	path = extern/pybind11
 	url = ../../pybind/pybind11
 	branch = stable
+[submodule "extern/Polylla"]
+	path = extern/Polylla
+	url = git@github.com:beltranamenabar/Polylla-Mesh-DCEL.git
