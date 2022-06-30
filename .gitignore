@@ -1,0 +1,14 @@
+# IDEs and others
+.vscode/
+.vs/
+.idea/
+
+# build folders
+build/
+out/
+
+# binary files (just in case)
+*.exe
+*.dll
+*.so
+*.lib
