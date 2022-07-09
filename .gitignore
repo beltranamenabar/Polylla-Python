@@ -6,9 +6,13 @@
 # build folders
 build/
 out/
+dist/
+Polylla.egg-info/
 
 # binary files (just in case)
 *.exe
 *.dll
 *.so
 *.lib
+*.egg
+*.whl
